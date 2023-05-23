@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1062155624553",
+    "firebase_url": "https://ekry-tn.firebaseio.com",
+    "project_id": "ekry-tn",
+    "storage_bucket": "ekry-tn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062155624553:android:003e06fcdc3357dc0cc2f8",
+        "android_client_info": {
+          "package_name": "moetaz.ekry.tn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062155624553-8aietjv3v35vvmtta9k8j5l7r3ffsgn2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "moetaz.ekry.tn",
+            "certificate_hash": "ad17ae613a23d52a641fc914e1e09ea8c423d386"
+          }
+        },
+        {
+          "client_id": "1062155624553-u4auh487hkddi0vq1r2n8p20a3g53h2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpa8n8zgXtd20x307hhdqji_Z-z9rN-Z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062155624553-u4auh487hkddi0vq1r2n8p20a3g53h2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
