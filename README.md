@@ -1,6 +1,6 @@
 ### Video Promotion of Final UI
 
-![Preview](2.mov)
+![Preview](/2.gif)
 
 
 Ekry.tn is a revolutionary mobile application designed to streamline the rental housing experience for individuals and investors in rental real estate. Exclusively available in Tunisia, this powerful platform is built with Flutter for Android and iOS, and utilizes Firebase for seamless backend operations. With its modern design and Dark mode functionality, Ekry.tn offers a visually stunning and user-friendly interface with responsive layouts that enhances the overall user experience.
