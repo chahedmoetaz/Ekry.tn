@@ -22,7 +22,9 @@ Whether you are searching for your dream rental home or seeking to optimize your
 
 
 # Video and Final UI
-![Preview](2.gif)
+
+![Preview](2.mov)
+
 ![Preview](2.jpg)
 ![Preview](3.jpg)
 ![Preview](4.jpg)
