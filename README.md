@@ -18,7 +18,7 @@ With the integration of Google Maps, Ekry.tn enables clients to easily verify th
 Whether you are searching for your dream rental home or seeking to optimize your rental property investments, Ekry.tn is your go-to application in Tunisia. Experience the convenience of modern design, Dark mode functionality, multi-language support, direct owner communication, and location verification through Google Maps. Simplify your rental journey and join the growing Ekry.tn community today.
 
 
-# feel free to contact us : https://wa.me/21654120687 or chahedmoetaz@gmail.com
+# feel free to contact us: https://moetazjaballahditchahed.vercel.app/
 
 
 # Video and Final UI
